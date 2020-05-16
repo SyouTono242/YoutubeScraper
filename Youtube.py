@@ -3,9 +3,9 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime
 
-outputFile = open("output.txt","w")
 
 listurl = 'https://www.youtube.com/playlist?list=PLiQ-AHFkVMznxM-NPbvtkVCQTR-8xXXI0'
+
 
 data = requests.get(listurl)
 data = data.text
