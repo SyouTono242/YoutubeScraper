@@ -5,7 +5,9 @@ from datetime import datetime
 import os
 
 
-listurl = 'https://www.youtube.com/playlist?list=PLiQ-AHFkVMznxM-NPbvtkVCQTR-8xXXI0'
+# listurl = 'https://www.youtube.com/playlist?list=PLiQ-AHFkVMznxM-NPbvtkVCQTR-8xXXI0'
+print("请输入播放列表链接(+至少一个空格)：")
+listurl = input()[:-1:]
 
 filename = str(datetime.now().date()).replace("-","")[2::]+".txt"
 f = open(filename, "a+")
