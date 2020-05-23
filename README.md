@@ -1,7 +1,7 @@
 # YoutubeScraper
  This script is used to collect data from YouTube playlists for Youzimu Games Fansub Group. It takes the most relevant information (title, publish date, URL, video length, and whether it has auto-generated subtitles) from videos on the list and print them out in a particular format.
  
- We produce fan-translated, subtitled version of videos for gaming fans in China that are blocked from Youtube for free. We will immediately stop the production and distribution of fansubs once a licensed version is announcced or when we receive a request for it. You can find our previous works [here on Bilibili](https://space.bilibili.com/361724886?from=search&seid=25339028138531520). 
+ We produce fan-translated, subtitled version of videos for gaming fans in China that are blocked from Youtube for free. We would immediately stop the production and distribution of fansubs once a licensed version is announcced or when we receive a request for it. You can find our previous works [here on Bilibili](https://space.bilibili.com/361724886?from=search&seid=25339028138531520). 
  
  ## Prerequisites
  
